@@ -1,4 +1,4 @@
-# BankCustomerSegmentation
+# BankCustomerSegmentation using ML
 
 Note: It will be better to run this code in a python notebook instead of an editor such a PyCharm as it will ease the tasks and help in differentiating between them. 
 As the code progresses and the number of plots increase, the difficulty of viewing each plot in an editor / IDE increases, so preferable use a Python Notebook such as Jupyter. 
